@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Passionate%20Learner-violet?style=flat-square&logo=readthedocs&logoColor=white" width="180" height="30" />
-  <img src="https://img.shields.io/badge/-Computer%20Science%20Undergrad-brightgreen?style=flat-square&logo=graduation-cap&logoColor=white" width="230" height="30" />
+<!--   <img src="https://img.shields.io/badge/-Computer%20Science%20Undergrad-brightgreen?style=flat-square&logo=graduation-cap&logoColor=white" width="230" height="30" /> -->
   <img src="https://img.shields.io/badge/-Exploring%20ML%20%26%20Streamlit-orange?style=flat-square&logo=python&logoColor=white" width="230" height="30" />
 </p>
 
