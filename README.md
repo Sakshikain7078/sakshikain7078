@@ -1,6 +1,6 @@
 <!-- Sakshi Kain GitHub Profile README -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sakshikain7078&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sakshikain7078&color=red&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBjb2Q2czBnaHZqZzJrd2lwYjR3bTgycmg3aXY0Zzh2bXM4NG5seiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" />
