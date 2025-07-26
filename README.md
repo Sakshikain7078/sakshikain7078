@@ -3,10 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=sakshikain7078&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBjb2Q2czBnaHZqZzJrd2lwYjR3bTgycmg3aXY0Zzh2bXM4NG5seiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7A3&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sakshi;Python+%7C+SQL+%7C+ML+%7C+Streamlit+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
 </p>
-
 
 
 ---
